@@ -1,1 +1,3 @@
-ahihi
+<?php
+	echo "Ngan"
+});

@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: PHP",
+  "description": "Testing Reception Bot",
+  "repository": "https://github.com/kimngan-bk13/reception-bot",
+  "addons": []
+}
